@@ -11,6 +11,9 @@ target/
 bin/
 .metadata/
 .mvn/
+.gitattributes
+mvnw
+mvnw.cmd
 
 # 本地开发配置
 application-dev.properties
